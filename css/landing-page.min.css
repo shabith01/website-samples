@@ -1,0 +1,190 @@
+body{font-family:-webkit-pictograph; margin: 0;padding:0; overflow-x: hidden; width: 100%;}
+h1,h2,h3,h4,h5,h6{font-family:Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:700}
+header.masthead{position:relative;background-color:#343a40;background:url(../img/bg1.jpg) no-repeat center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding-top:8rem;padding-bottom:8rem}
+header.masthead .overlay{position:absolute;background-color:#212529;height:100%;width:100%;top:0;left:0;opacity:.3}
+header.masthead h1{font-size:2rem}@media (min-width:768px){header.masthead{padding-top:12rem;padding-bottom:12rem}
+header.masthead h1{font-size:3rem}}
+.showcase .showcase-text{padding:3rem}
+.showcase .showcase-img{min-height:30rem;background-size:cover}
+@media (min-width:768px){.showcase .showcase-text{padding:7rem;margin: 0;padding: 0;}}.
+features-icons{padding-top:7rem;padding-bottom:7rem}
+.features-icons .features-icons-item{
+	max-width:20rem}
+.features-icons .features-icons-item .features-icons-icon{
+	height:7rem}
+.features-icons .features-icons-item .features-icons-icon i{
+	font-size:4.5rem}
+.features-icons .features-icons-item:hover .features-icons-icon i
+{font-size:5rem
+}
+.testimonials{padding-top:7rem;padding-bottom:7rem}.testimonials .testimonial-item{max-width:18rem}
+.testimonials .testimonial-item img{
+	max-width:12rem;box-shadow:0 5px 5px 0 #adb5bd}
+.call-to-action{
+	position:relative;background-color:#29aae1; 
+	padding-bottom:3rem;
+    padding-top: 62px;
+}
+ 
+footer.footer{padding-top:2rem;padding-bottom:0;
+background-color:#fff;
+}
+.img-footer {
+  width: 185px;
+}
+.navbar-brand {
+margin-right: auto;
+margin-left: auto;
+
+  }
+  .call-button{
+background-color: #fd9f00;
+border: none;
+border-radius: 42px;
+    height: 69px;
+    width:142px;
+    color: #fff;
+     
+  }
+
+  .enquiry-button{
+background-color: #44be4c;
+border: none;
+border-radius: 42px;
+    height: 69px;
+    color: #fff;
+    width: 142px;
+
+  }
+  .call{
+  	   color: #fff;
+    padding-left: 9px;
+    font-size: 34px;
+
+  }
+  .button-pad{
+  	padding-left: 10px;
+    font-size: 34px;
+  }
+
+  .about{
+    margin-left: 100px;
+  }
+  .about h3{
+text-align: center;
+    padding-top: 25px;
+    margin-right: 101px;
+  }
+  .gallery h3{
+    padding-bottom: 33px;
+    text-align: center;
+    padding-top: 40px;
+  }
+  .gallery{
+    background-color: #f1f1f1;
+  }
+  .gallery img{
+     width: 350px;
+    margin-left: 58px;
+    padding-bottom: 90px;
+  }
+  .gallery-box{
+    width: 350px;
+    background-color: #fff;
+    margin-left: 58px;
+    margin-top: -87px;
+    margin-bottom: 30px;
+  }
+  .gallery-box h5{
+padding: 10px;
+}
+  .gallery-box p{
+padding: 10px;
+color: #cacaca;
+margin-top: -45px;
+}
+ .gallery-box span{
+margin-left: 10px;
+ 
+}
+.gallery-btn{
+ background-color: #44be4c;
+    border: none;
+    border-radius: 42px;
+    /* height: 49px; */
+    color: #fff;
+    /* width: 105px; */
+    margin-left: 27px;
+}
+.btn-center{
+  margin-left: 40px;
+    font-size: 24px;
+}
+.review{
+  color: #44be4c
+}
+.text-right{
+      text-align: right;
+    margin-top: -29px;
+    margin-right: 69px;
+    font-style: normal;
+    font-weight: 100;
+}
+.text-right1{
+      text-align: right;
+    margin-right: 69px;
+    font-style: normal;
+    font-weight: 500;
+    color:#fd9f00;
+}
+
+  .checked {
+    color: orange;
+}
+  .service{
+    background-color: #fff;
+    padding-left: 80px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .service-fa{
+    color: #fd9f00;
+    font-size: 6em;
+    padding: 10px;
+  }
+  .service span{
+color: #cacaca;
+font-size: 18px;
+border-bottom: 1px solid #ccc;
+padding-bottom: 10px;
+  }
+.input-box{
+  border-radius: 64px;
+    width: 303px;
+    text-align: center;
+    margin-top: 82px;
+}
+.social-fa{
+  font-size: 5em;
+  font-size: 2em;
+    padding-left: 16px;
+    padding-top: 80px;
+    padding-bottom: 0;
+}
+.span-social{
+      margin-right: 360px;
+      margin-bottom: -63px;
+      font-style: normal;
+}
+.span-social1{
+      margin-left: 10px;
+      margin-bottom: -63px;
+}
+.weekly-span{
+      margin-left: -350px;
+}
+.accept{
+  text-align: left;
+  color: #cacaca;
+padding-left: 125px;
+}
